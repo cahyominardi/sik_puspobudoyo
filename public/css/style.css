@@ -1,0 +1,84 @@
+body {
+  background: #f0f8ff;
+}
+.loginpage {
+  border: solid gray 1px;
+  width: 70%;
+  border-radius: 3px;
+  margin: 30px auto;
+  background: white;
+  padding: 50px;
+}
+
+.logo_login {
+  margin-left: 230px;
+  width: 30%;
+}
+
+.logo {
+  margin-left: 70px;
+  width: 3%;
+}
+
+.registerpage {
+  border: solid gray 1px;
+  width: 70%;
+  border-radius: 5px;
+  margin: 70px auto;
+  background: white;
+  padding: 50px;
+}
+
+.navbar-nav {
+  margin-left: 950px;
+}
+
+.table {
+  font-size: 15px;
+}
+
+.mainpage {
+  color: #29d;
+}
+
+.daftar_pengguna {
+  width: 250px;
+  margin-left: 180px;
+}
+
+.pengaturan {
+  width: 250px;
+  margin-left: 180px;
+}
+
+.pemasukan {
+  width: 550px;
+}
+
+.pengeluaran {
+  width: 550px;
+}
+
+.lihat_keuangan {
+  width: 550px;
+}
+
+.buat_anggaran {
+  width: 550px;
+}
+
+.lap_pagelaran {
+  width: 550px;
+}
+
+.lap_sekolah {
+  width: 550px;
+}
+
+.lap_aset {
+  width: 550px;
+}
+
+.pengajuan {
+  width: 550px;
+}
